@@ -11,7 +11,7 @@
 ![2  All-Orders-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/75999e34-d17f-4a35-aacc-f2e08ca0df96)
 
 ## View Order
-![ View Order](https://github.com/gilbertozioma/iGadgets/assets/113298668/f8ce380d-06c7-4060-b659-aa64dde2ec9b)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/f8ce380d-06c7-4060-b659-aa64dde2ec9b
 
 ## All Brands
 ![3  Brands-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/fc5176ed-e3fd-491e-9745-d4b110f0faf8)
@@ -30,7 +30,7 @@
 
 ## Edit Product
 **Adding a Product Color is optional**
-![Edit-Product](https://github.com/gilbertozioma/iGadgets/assets/113298668/8ea75b42-f8be-43a3-81c7-4590f6f94ff3)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/8ea75b42-f8be-43a3-81c7-4590f6f94ff3
 
 ## Product Colors
 ![6  Colors-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/61586af0-136e-4c16-a189-966bf5d14614)
@@ -39,19 +39,19 @@
 ![7  Users-List-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/b9e80438-0c7e-468a-b683-8a6280cd060b)
 
 ## Edit User/User-Role
-![Edit-User-Role](https://github.com/gilbertozioma/iGadgets/assets/113298668/50c1776e-2c23-4a5d-a8e2-ef7a401f2d58)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/50c1776e-2c23-4a5d-a8e2-ef7a401f2d58
 
 ## Website Slider
 ![8  Sliders-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/e1d59f0f-0d97-49d1-9824-c33a62080dfd)
 
 ## Edit Website Slider
-![Edit-Website-Slider](https://github.com/gilbertozioma/iGadgets/assets/113298668/b46e2051-e638-48e0-bb50-433dbfda017f)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/b46e2051-e638-48e0-bb50-433dbfda017f
 
 ## Website Settings
 ![9  Website-Setting-iGadgets](https://github.com/gilbertozioma/iGadgets/assets/113298668/6f1d158e-7127-4a59-bd09-f372a15e8e8b)
 
 ## Edit Website Setting/Logo
-![Edit-Website-Settings](https://github.com/gilbertozioma/iGadgets/assets/113298668/572ac287-6da8-47f6-a15c-2ca4d3549b89)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/572ac287-6da8-47f6-a15c-2ca4d3549b89
 
 ##
 
@@ -107,7 +107,7 @@
 ![12ii  POD-Thank-You-for-Shopping](https://github.com/gilbertozioma/iGadgets/assets/113298668/d60f3a14-bf60-4da6-9896-d8ce97130bd3)
 
 ## Received Order mail to the provided email
-![Received Order mail to the provided email](https://github.com/gilbertozioma/iGadgets/assets/113298668/bb97f2a1-2c16-4ed7-a92c-c12dd84b6f03)
+https://github.com/gilbertozioma/iGadgets/assets/113298668/bb97f2a1-2c16-4ed7-a92c-c12dd84b6f03
 
 ##
 
